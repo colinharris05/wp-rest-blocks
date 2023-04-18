@@ -1,6 +1,6 @@
 === REST API blocks ===
-Contributors: spacedmonkey
-Donate link: https://github.com/sponsors/spacedmonkey
+Contributors: colinharris05
+Donate link: https://github.com/sponsors/colinharris05
 Tags: blocks, gutenberg, api, wp-json, rest-api
 Requires at least: 5.5
 Tested up to: 6.1
@@ -21,7 +21,7 @@ An example of output, can be found in the screenshots.
 
 * Requires PHP 5.6+.
 * Requires WordPress 5.5+.
-* Issues and Pull requests welcome on the GitHub repository: https://github.com/spacedmonkey/wp-rest-blocks
+* Issues and Pull requests welcome on the GitHub repository: https://github.com/colinharris05/wp-rest-blocks
 
 == Installation ==
 

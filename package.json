@@ -2,7 +2,7 @@
   "name": "wp-rest-blocks",
   "version": "0.1.0",
   "main": "Gruntfile.js",
-  "author": "Jonathan Harris",
+  "author": "Colin Harris",
   "devDependencies": {
     "grunt": "~1.5.3",
     "grunt-wp-i18n": "^1.0.3",

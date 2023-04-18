@@ -1,4 +1,4 @@
-# Copyright (C) 2021 Jonathan Harris
+# Copyright (C) 2021 Colin Harris
 # This file is distributed under the same license as the REST API Blocks plugin.
 msgid ""
 msgstr ""
@@ -19,7 +19,7 @@ msgid "REST API Blocks"
 msgstr ""
 
 #. Plugin URI of the plugin
-msgid "https://github.com/spacedmonkey/wp-rest-blocks"
+msgid "https://github.com/colinharris05/wp-rest-blocks"
 msgstr ""
 
 #. Description of the plugin
@@ -27,11 +27,11 @@ msgid "Add gutenberg blocks data into post / page / widget REST API endpoints."
 msgstr ""
 
 #. Author of the plugin
-msgid "Jonathan Harris"
+msgid "Colin Harris"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "https://www.spacedmonkey.com/"
+msgid "https://www.gusto.com/"
 msgstr ""
 
 #: src/posts.php:55

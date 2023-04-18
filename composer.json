@@ -1,17 +1,17 @@
 {
-  "name": "spacedmonkey/wp-rest-blocks",
+  "name": "colinharris05/wp-rest-blocks",
   "type": "wordpress-plugin",
   "description": "Add gutenberg blocks data into post / page / widget REST API endpoints.",
   "homepage": "http://wp-api.org/",
-	"license": "GPL-3.0-or-later",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
-      "name": "Jonny Harris",
-      "homepage": "https://www.spacedmonkey.com/"
+      "name": "Colin Harris",
+      "homepage": "https://www.gusto.com/"
     }
   ],
   "support": {
-    "issues": "https://github.com/spacedmonkey/wp-rest-blocks/issues"
+    "issues": "https://github.com/colinharris05/wp-rest-blocks/issues"
   },
   "require": {
     "composer/installers": "^1.10",
